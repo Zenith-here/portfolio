@@ -112,8 +112,8 @@ export const portfolioData = {
       duration: "May 2024 - Present",
       description:
         "Built the official platform supporting over 5,000 monthly unique users, ensuring cross-platform compatibility and responsive design.",
-      // githubLink: "https://www.edcbitmesra.in/",
-      liveLink: "https://link-to-ecell.com",
+      githubLink: "https://www.edcbitmesra.in/",
+      liveLink: "https://www.edcbitmesra.in/",
       featured: true,
     },
     {
