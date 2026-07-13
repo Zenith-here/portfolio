@@ -71,7 +71,7 @@ export const portfolioData = {
     {
       role: "Technical Head",
       company: "Entrepreneurship Cell, BIT Mesra",
-      duration: "May 2024 - Present",
+      duration: "May 2025 - Present",
       description: [
         "Led the development and deployment of the official website using React.js, Node.js, and Tailwind CSS.",
         "Managed technical execution during flagship events like E-Summit.",
@@ -81,7 +81,7 @@ export const portfolioData = {
     {
       role: "Member",
       company: "Student Alumni Relations Cell",
-      duration: "Dates", // Update with your dates
+      duration: "May 2024-May 2025",
       description: [
         "Facilitated alumni-college interactions through webinars and meets.",
         "Coordinated with alumni to enable knowledge sharing and professional guidance.",
@@ -102,8 +102,8 @@ export const portfolioData = {
       duration: "Completed",
       description:
         "Developed a full-stack, accessibility-first task management application with an AI-based roadmap generator using Gemini API to enhance focus and reduce overwhelm.",
-      githubLink: "https://github.com/your-username/neurotask",
-      liveLink: "https://link-to-neurotask.com", // Add link from resume
+      githubLink: "https://github.com/Zenith-here/TaskManager",
+      liveLink: "https://taskmanager-frontend-0z7u.onrender.com/",
       featured: true,
     },
     {
@@ -112,7 +112,7 @@ export const portfolioData = {
       duration: "May 2024 - Present",
       description:
         "Built the official platform supporting over 5,000 monthly unique users, ensuring cross-platform compatibility and responsive design.",
-      githubLink: "https://github.com/your-username/ecell-site",
+      // githubLink: "https://www.edcbitmesra.in/",
       liveLink: "https://link-to-ecell.com",
       featured: true,
     },
@@ -122,7 +122,7 @@ export const portfolioData = {
       duration: "Oct 2025 - Present",
       description:
         "Engineered an automated trading bot utilizing the Kotak Securities API to fetch real-time market feeds, processing raw tick data into OHLCV candles to simulate live order execution with sub-second latency.",
-      githubLink: "https://github.com/your-username/trading-engine",
+      githubLink: "",
       liveLink: "",
       featured: true,
     },
@@ -132,7 +132,7 @@ export const portfolioData = {
       duration: "March 2026",
       description:
         "Developed a machine learning pipeline using Random Forest algorithms to predict student dropout rates based on academic and engagement metrics.",
-      githubLink: "https://github.com/your-username/dropout-prediction",
+      githubLink: "",
       liveLink: "",
       featured: true,
     },
